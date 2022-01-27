@@ -1,0 +1,13 @@
+
+Colorpicker:
+https://www.w3schools.com/colors/colors_picker.asp - 27.01.22 
+
+favicon:
+https://pixabay.com/de/vectors/schokolade-s%c3%bc%c3%9f-dessert-kakao-2896696/  - 27.01.22 
+
+Bilder:
+https://pixabay.com/de/photos/schokolade-f%c3%bclle-s%c3%bc%c3%9figkeiten-1914464/ - 27.01.22 
+https://pixabay.com/de/photos/schokolade-dunkle-schokolade-1312524/ - 27.01.22 
+
+Ralf kann kein css:
+https://www.giga.de/artikel/css-div-nebeneinander-anordnen--9vx672h434 - 27.01.22 

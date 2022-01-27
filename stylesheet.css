@@ -1,0 +1,31 @@
+body{
+    background-color: #b33c00
+}
+
+h1{
+    font-size: 200%;
+    color: azure;
+}
+.left{
+    float: left;
+    width: 32%; 
+    margin-right: 2%; 
+    padding: 20px; 
+    box-sizing: border-box;
+}
+.centre{
+    float: left; 
+    width: 32%; 
+    margin-right: 2%; 
+    padding: 20px; 
+    background-image: url("Bilder/Bild2.jpg"); 
+    box-sizing: border-box;
+}
+.right{
+    float: left; 
+    width: 32%; 
+    margin-right: 2%; 
+    padding: 20px; 
+    box-sizing: border-box; 
+    margin-right: 0; 
+}
