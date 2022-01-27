@@ -1,5 +1,6 @@
 body{
-    background-color: #9E4F17
+    background-image: url("Bilder/Bild2.jpg");
+    background-size: 100% auto;
 }
 
 h1{
@@ -19,8 +20,8 @@ h1{
     width: 60%; 
     margin-right: 2%; 
     padding: 20px; 
-    height: 1500px;
-    background-image: url("Bilder/Bild2.jpg"); 
+    height: 1800px;
+    background-color: #9E4F17;
     box-sizing: border-box;
 }
 .right{
