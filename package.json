@@ -1,0 +1,30 @@
+{
+  "name": "web-engineering",
+  "version": "1.0.0",
+  "description": "DHBW Web Engineering Project concerning a website about chocolate",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ehlikopter/Web-Engineering.git"
+  },
+  "keywords": [
+    "chocolate",
+    "dhbw",
+    "web-engineering"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ehlikopter/Web-Engineering/issues"
+  },
+  "homepage": "https://github.com/Ehlikopter/Web-Engineering#readme"
+}

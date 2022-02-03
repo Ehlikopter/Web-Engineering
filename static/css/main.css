@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro:ital@0;1&family=Rowdies:wght@300;400&display=swap');
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Andada Pro', 'Times New Roman', Times, serif;
+    background-color: #1f0f09;
+    color: #f7e3db;
+}
+h1, h2, h3, h4 {
+    margin-top: 0.7em;
+    font-family: 'Rowdies';
+    font-weight: 300;
+    color: #fff;
+}
+p {
+    padding: 0 0.8em;
+}
+a:hover {
+    color: #c9a196;
+}
+
+.nav {
+    display: flex;
+    justify-content: start;
+    background-color: #643c30;
+}
+.nav-link {
+    align-self: center;
+    margin: 0.5em 0.8em;
+
+    color: #ffffff;
+    font-family: 'Rowdies', sans-serif;
+}
+
+.logo-svg {
+    width: 32px;
+    height: 32px;
+
+    align-self: center;
+    margin: 0.5em 0.3em 0.3em 0.5em;
+}
+
+
+.content {
+    padding: 0.5em 1em;
+}
