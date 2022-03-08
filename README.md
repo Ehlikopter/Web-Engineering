@@ -2,7 +2,6 @@
  Webseite über SCHOKOLADE
 
  Unterseiten:
-    - Anbau
     - Geschichte 
     - Herstellung 
     - Fair Trade
